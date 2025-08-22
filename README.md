@@ -5,7 +5,7 @@
 - 🔍 Currently researching Context Engineering and VSCode Extension Development
 - 💻 Deep diving into Next.js development
 - 🎨 Learning Figma for design
-- 🎮 Gaming: Currently playing Peak | Play Fortnite with friends | Love MEME BOXFIGHTS 📦 by FRStudios
+- 🎮 Gaming: Currently playing Peak | Play Fortnite with friends | Love [MEME BOXFIGHTS 📦](https://www.fortnite.com/@frstudios/1146-7216-6816) by FRStudios
 - 🏆 Best of 2025: Clair Obscur: Expedition 33 (my personal GOTY)
 - 🌐 Domain collector: franxx.ai • ranni.ai • fuck.md • leetcode.me
 - 📬 You can reach me at: [notdp@icloud.com](mailto:notdp@icloud.com)
