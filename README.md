@@ -1,29 +1,28 @@
-
 # Hi there 👋 I'm notdp
 
 > Backend → Full-Stack Developer | Multi-Agent Systems | Open Source
 
 ## About Me
 
-### 🎓 Education & Career
+### <img src="https://api.iconify.design/lucide:graduation-cap.svg" width="16" height="16" style="vertical-align: middle"/> Education & Career
 
 - Graduate of [Xidian University](https://en.xidian.edu.cn/)
-- 💼 **Open to Work**: Python/Node.js Backend or Full-Stack Developer (Shanghai/Xi'an/Remote)
+- <img src="https://api.iconify.design/lucide:briefcase.svg" width="12" height="12" style="vertical-align: middle"/> **Open to Work**: Python/Node.js Backend or Full-Stack Developer (Shanghai/Xi'an/Remote)
 
-### 💻 Current Focus
+### <img src="https://api.iconify.design/lucide:crosshair.svg" width="16" height="16" style="vertical-align: middle"/> Current Focus
 
-- 🤖 Researching Multi-Agent Collaboration & Context Engineering
-- 🛠️ Building VSCode Extensions
-- ⚡ Transitioning to Full-Stack with React/Next.js
-- 🎨 Learning UI/UX with Figma
+- <img src="https://api.iconify.design/lucide:bot.svg" width="12" height="12" style="vertical-align: middle"/> Researching Multi-Agent Collaboration & Context Engineering
+- <img src="https://api.iconify.design/lucide:puzzle.svg" width="12" height="12" style="vertical-align: middle"/> Building VSCode Extensions
+- <img src="https://api.iconify.design/lucide:layers.svg" width="12" height="12" style="vertical-align: middle"/> Transitioning to Full-Stack with React/Next.js
+- <img src="https://api.iconify.design/lucide:palette.svg" width="12" height="12" style="vertical-align: middle"/> Learning UI/UX with Figma
 
-### 🎮 Life Beyond Code
+### <img src="https://api.iconify.design/lucide:gamepad-2.svg" width="16" height="16" style="vertical-align: middle"/> Life Beyond Code
 
 - **Peak**: [Steam](https://store.steampowered.com/app/3527290/PEAK/) (Currently playing)
 - **Fortnite**: [MEME BOXFIGHTS 📦](https://www.fortnite.com/@frstudios/1146-7216-6816) with friends
 - **GOTY 2025**: [Clair Obscur: Expedition 33](https://store.steampowered.com/agecheck/app/1903340/)
 
-### 📬 Contact
+### <img src="https://api.iconify.design/lucide:mail.svg" width="16" height="16" style="vertical-align: middle"/> Contact
 
 - Email: [notdp@icloud.com](mailto:notdp@icloud.com)
 
