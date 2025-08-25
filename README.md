@@ -4,25 +4,25 @@
 
 ## About Me
 
-### <img src="https://api.iconify.design/lucide:graduation-cap.svg" width="16" height="16" style="vertical-align: middle"/> Education & Career
+### <img src="https://lucide.dev/api/icons/graduation-cap" width="18" height="18" style="vertical-align: -0.1em"/> Education & Career
 
 - Graduate of [Xidian University](https://en.xidian.edu.cn/)
-- <img src="https://api.iconify.design/lucide:briefcase.svg" width="12" height="12" style="vertical-align: middle"/> **Open to Work**: Python/Node.js Backend or Full-Stack Developer (Shanghai/Xi'an/Remote)
+- <img src="https://lucide.dev/api/icons/briefcase" width="14" height="14" style="vertical-align: -0.1em"/> **Open to Work**: Python/Node.js Backend or Full-Stack Developer (Shanghai/Xi'an/Remote)
 
-### <img src="https://api.iconify.design/lucide:crosshair.svg" width="16" height="16" style="vertical-align: middle"/> Current Focus
+### <img src="https://lucide.dev/api/icons/crosshair" width="18" height="18" style="vertical-align: -0.1em"/> Current Focus
 
-- <img src="https://api.iconify.design/lucide:bot.svg" width="12" height="12" style="vertical-align: middle"/> Researching Multi-Agent Collaboration & Context Engineering
-- <img src="https://api.iconify.design/lucide:puzzle.svg" width="12" height="12" style="vertical-align: middle"/> Building VSCode Extensions
-- <img src="https://api.iconify.design/lucide:layers.svg" width="12" height="12" style="vertical-align: middle"/> Transitioning to Full-Stack with React/Next.js
-- <img src="https://api.iconify.design/lucide:palette.svg" width="12" height="12" style="vertical-align: middle"/> Learning UI/UX with Figma
+- <img src="https://lucide.dev/api/icons/bot" width="14" height="14" style="vertical-align: -0.1em"/> Researching Multi-Agent Collaboration & Context Engineering
+- <img src="https://lucide.dev/api/icons/puzzle" width="14" height="14" style="vertical-align: -0.1em"/> Building VSCode Extensions
+- <img src="https://lucide.dev/api/icons/layers" width="14" height="14" style="vertical-align: -0.1em"/> Transitioning to Full-Stack with React/Next.js
+- <img src="https://lucide.dev/api/icons/palette" width="14" height="14" style="vertical-align: -0.1em"/> Learning UI/UX with Figma
 
-### <img src="https://api.iconify.design/lucide:gamepad-2.svg" width="16" height="16" style="vertical-align: middle"/> Life Beyond Code
+### <img src="https://lucide.dev/api/icons/gamepad-2" width="18" height="18" style="vertical-align: -0.1em"/> Life Beyond Code
 
 - **Peak**: [Steam](https://store.steampowered.com/app/3527290/PEAK/) (Currently playing)
 - **Fortnite**: [MEME BOXFIGHTS 📦](https://www.fortnite.com/@frstudios/1146-7216-6816) with friends
 - **GOTY 2025**: [Clair Obscur: Expedition 33](https://store.steampowered.com/agecheck/app/1903340/)
 
-### <img src="https://api.iconify.design/lucide:mail.svg" width="16" height="16" style="vertical-align: middle"/> Contact
+### <img src="https://lucide.dev/api/icons/mail" width="18" height="18" style="vertical-align: -0.1em"/> Contact
 
 - Email: [notdp@icloud.com](mailto:notdp@icloud.com)
 
