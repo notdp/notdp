@@ -1,6 +1,6 @@
 # Hi there 👋 I'm notdp
 
-> Backend → Full-Stack Developer | Multi-Agent Systems | Open Source
+> Backend → Full-Stack Developer 
 
 ## About Me
 
