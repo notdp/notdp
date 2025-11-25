@@ -11,10 +11,10 @@
 
 ### <img src="https://lucide.dev/api/icons/crosshair" width="18" height="18" style="vertical-align: -2px"/> Current Focus
 
-- <img src="https://lucide.dev/api/icons/bot" width="14" height="14" style="vertical-align: -2px"/> Researching Multi-Agent Collaboration & Context Engineering
 - <img src="https://lucide.dev/api/icons/puzzle" width="14" height="14" style="vertical-align: -2px"/> Building VSCode Extensions
-- <img src="https://lucide.dev/api/icons/layers" width="14" height="14" style="vertical-align: -2px"/> Transitioning to Full-Stack with React/Next.js
-- <img src="https://lucide.dev/api/icons/palette" width="14" height="14" style="vertical-align: -2px"/> Learning UI/UX with Figma
+- <img src="https://lucide.dev/api/icons/layers" width="14" height="14" style="vertical-align: -2px"/> Deeply learning React and Next.js
+- <img src="https://lucide.dev/api/icons/bot" width="14" height="14" style="vertical-align: -2px"/> Deeply learning Python and FastAPI
+- <img src="https://lucide.dev/api/icons/palette" width="14" height="14" style="vertical-align: -2px"/> Learning UI/UX with Figma and Gemini canvas
 
 ### <img src="https://lucide.dev/api/icons/gamepad-2" width="18" height="18" style="vertical-align: -2px"/> Life Beyond Code
 
